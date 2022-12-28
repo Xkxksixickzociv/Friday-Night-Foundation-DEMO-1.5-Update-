@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "173-bg",
+		"player1": "bf-173",
+		"player2": "173",
+		"player3": null,
+		"events": [
+			[
+				567.567567567568,
+				[
+					[
+						"D-Boy walking in",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8108.10810810811,
+				[
+					[
+						"D-Boy idle",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18162.1621621622,
+				[
+					[
+						"D-Boy fucking dies",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20594.5945945946,
+				[
+					[
+						"Return Opponent on its position",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Coltyn walking in",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41594.5945945946,
+				[
+					[
+						"Coltyn idle",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56756.7567567568,
+				[
+					[
+						"Coltyn sadly dies",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57405.4054054055,
+				[
+					[
+						"Return Opponent on its position1",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-173",
+		"bpm": 185,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Locked In"
+	}
+}
