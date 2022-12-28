@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-20
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-45
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSd",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				25
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "106bfleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "106bfdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "106bfup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "106bfright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "106bfidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/bflarry",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "bfcum",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

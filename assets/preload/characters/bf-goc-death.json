@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "gocbfstart"
+		},
+		{
+			"offsets": [
+				90,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "gocbfloop"
+		},
+		{
+			"offsets": [
+				90,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "gocbfconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/GOCbfdeath",
+	"position": [
+		0,
+		335
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		60,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

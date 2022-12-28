@@ -8,7 +8,7 @@
 			],
 			"anim": "danceRight",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"name": "gfmop",
 			"indices": [
 				15,
 				16,
@@ -35,7 +35,7 @@
 			],
 			"anim": "danceLeft",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"name": "gfmop",
 			"indices": [
 				30,
 				0,
@@ -63,15 +63,15 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"name": "gfmop0",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/foundation/scpgf",
+	"image": "characters/foundation/gfmop",
 	"position": [
-		0,
-		0
+		-10,
+		165
 	],
 	"healthicon": "gf",
 	"flip_x": false,
@@ -85,5 +85,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.1
 }

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "coltynidle"
+		},
+		{
+			"offsets": [
+				150,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "walking",
+			"indices": [],
+			"name": "coltynwalk"
+		},
+		{
+			"offsets": [
+				624,
+				-9
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "death",
+			"indices": [],
+			"name": "coltyndie"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "coltyn",
+	"position": [
+		-270,
+		110
+	],
+	"healthicon": "dboy",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		104,
+		83
+	],
+	"camera_position": [
+		-530,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

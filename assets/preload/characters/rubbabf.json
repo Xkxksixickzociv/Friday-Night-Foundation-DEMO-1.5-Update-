@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rbfleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-81
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rbfdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rbfup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rbfright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-3
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rbflmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-107
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rbfdmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				57
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "rbfumiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-179,
+				5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rbfrmiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "rbfidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/rubbabf",
+	"position": [
+		-20,
+		280
+	],
+	"healthicon": "rubbabf",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		236,
+		255
+	],
+	"camera_position": [
+		180,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				118
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "valbfdeathstart"
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "valbfdeathloop"
+		},
+		{
+			"offsets": [
+				-44,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "valbfdeathconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/valbfdeath",
+	"position": [
+		0,
+		335
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		60,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

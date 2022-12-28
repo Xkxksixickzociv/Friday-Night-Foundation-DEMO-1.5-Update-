@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSl"
+		},
+		{
+			"offsets": [
+				-35,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSr"
+		},
+		{
+			"offsets": [
+				-49,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSd"
+		},
+		{
+			"offsets": [
+				-78,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSu"
+		},
+		{
+			"offsets": [
+				-1,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "bfidle"
+		},
+		{
+			"offsets": [
+				-10,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bfright"
+		},
+		{
+			"offsets": [
+				-37,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bfleft"
+		},
+		{
+			"offsets": [
+				-76,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bfup"
+		},
+		{
+			"offsets": [
+				-58,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bfdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/173BOYFRIEND",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		0,
+		-95
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

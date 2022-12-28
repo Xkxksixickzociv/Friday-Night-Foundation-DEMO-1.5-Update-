@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				125
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				43
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/Larry",
+	"position": [
+		-120,
+		185
+	],
+	"healthicon": "Larry",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		70,
+		70
+	],
+	"camera_position": [
+		100,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

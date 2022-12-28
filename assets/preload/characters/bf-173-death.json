@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				226,
+				301
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "173deathstart"
+		},
+		{
+			"offsets": [
+				-84,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "173deathloop"
+		},
+		{
+			"offsets": [
+				-84,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "173deathconfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/173bfdeath",
+	"position": [
+		0,
+		335
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		0
+	],
+	"camera_position": [
+		-60,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
