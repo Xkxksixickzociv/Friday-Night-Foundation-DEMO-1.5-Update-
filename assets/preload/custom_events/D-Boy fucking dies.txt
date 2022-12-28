@@ -1,0 +1,2 @@
+value1: walk
+value2: idle

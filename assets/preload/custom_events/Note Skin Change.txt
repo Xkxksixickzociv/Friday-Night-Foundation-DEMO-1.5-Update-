@@ -1,0 +1,4 @@
+Changes the note skin
+
+Value 1: New note skin name
+Value 2: New note splash name(OPTIONAL)
