@@ -1,0 +1,66 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Decaying",
+			"Larry",
+			[
+				10,
+				10,
+				10
+			]
+		],
+		[
+			"Mayhem",
+			"thomson",
+			[
+				192,
+				188,
+				157
+			]
+		],
+		[
+			"Playtime",
+			"999",
+			[
+				255,
+				170,
+				0
+			]
+		],
+		[
+			"Ballin",
+			"ball",
+			[
+				171,
+				20,
+				30
+			]
+		],
+		[
+			"Vasectomy",
+			"049Icons1",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}
