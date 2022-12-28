@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GOCbfdeath.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gocbfconfirm0000" x="2" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0001" x="2" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0002" x="991" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0003" x="991" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0004" x="2" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0005" x="2" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0006" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0007" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0008" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0009" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0010" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0011" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0012" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0013" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfconfirm0014" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0000" x="1980" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfloop0001" x="1980" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfloop0002" x="2969" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfloop0003" x="2969" y="2" width="987" height="472"/>
+	<SubTexture name="gocbfloop0004" x="2" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0005" x="2" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0006" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0007" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0008" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0009" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0010" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0011" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0012" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0013" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfloop0014" x="991" y="476" width="987" height="472"/>
+	<SubTexture name="gocbfstart0000" x="1980" y="476" width="404" height="437" frameX="-147" frameY="-28" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0001" x="2386" y="476" width="671" height="461" frameX="-37" frameY="-4" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0002" x="3059" y="476" width="708" height="461" frameX="-37" frameY="-4" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0003" x="2" y="950" width="718" height="463" frameX="-27" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0004" x="722" y="950" width="748" height="463" frameX="-27" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0005" x="1472" y="950" width="730" height="463" frameX="-45" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0006" x="2204" y="950" width="754" height="463" frameX="-45" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0007" x="2960" y="950" width="789" height="463" frameX="-10" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0008" x="2" y="1415" width="582" height="463" frameX="-10" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0009" x="586" y="1415" width="598" height="463" frameX="-2" frameY="-3" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0010" x="586" y="1415" width="598" height="463" frameX="-2" frameY="-3" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0011" x="1186" y="1415" width="604" height="466" frameX="0" frameY="0" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0012" x="1186" y="1415" width="604" height="466" frameX="0" frameY="0" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0013" x="1792" y="1415" width="609" height="464" frameX="0" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0014" x="1792" y="1415" width="609" height="464" frameX="0" frameY="-2" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0015" x="2403" y="1415" width="612" height="451" frameX="0" frameY="-15" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0016" x="2403" y="1415" width="612" height="451" frameX="0" frameY="-15" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0017" x="3017" y="1415" width="935" height="400" frameX="0" frameY="-65" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0018" x="3017" y="1415" width="935" height="400" frameX="0" frameY="-65" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0019" x="2" y="1883" width="985" height="466" frameX="0" frameY="-88" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0020" x="2" y="1883" width="985" height="466" frameX="0" frameY="-88" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0021" x="989" y="1883" width="981" height="460" frameX="0" frameY="-87" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0022" x="989" y="1883" width="981" height="460" frameX="0" frameY="-87" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0023" x="1972" y="1883" width="985" height="472" frameX="0" frameY="-90" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0024" x="1972" y="1883" width="985" height="472" frameX="0" frameY="-90" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0025" x="2959" y="1883" width="984" height="467" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0026" x="2959" y="1883" width="984" height="467" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0027" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0028" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0029" x="991" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0030" x="991" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0031" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0032" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0033" x="991" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0034" x="991" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0035" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0036" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0037" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0038" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0039" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0040" x="2" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0041" x="1980" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0042" x="1980" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0043" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0044" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0045" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0046" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0047" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0048" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0049" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+	<SubTexture name="gocbfstart0050" x="2969" y="2357" width="987" height="472" frameX="0" frameY="-89" frameWidth="987" frameHeight="562"/>
+</TextureAtlas>
